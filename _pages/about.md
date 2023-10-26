@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: hack_shack_logo.png
+  image: hackshack-logo-white-with-transparent-bg-black-outline.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p></p>
