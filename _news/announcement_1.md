@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I guess the we have a web presence now! Welcome to hackshack.us/Jamie's Hack Shack!
+I guess that we have a web presence now! Welcome to hackshack.us/Jamie's Hack Shack!
