@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome back to the hack shack! Here you'll find any related blog posts or project info of things I may be getting into here.
+Welcome back to the hack shack! Here you'll find any related blog posts or project info about things I may be getting into.
 Thanks for stopping by! 
 Until I get more content going here please check out the videos on my YT channel!
 [Jamie's Hack Shack YouTube Channel](https://www.youtube.com/@JamiesHackShack)
