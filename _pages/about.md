@@ -20,7 +20,9 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Welcome back to the hack shack! Here you'll find any related blog posts or project info of things I may be getting into here.
-Thanks for stopping by! 
+Thanks for stopping by! Until I get more text content going here please check out the videos on my YT channel!
+[Jamie's Hack Shack YouTube Channel](https://www.youtube.com/@JamiesHackShack)
+
 
 Be excellent to each other and, hack on!
 
