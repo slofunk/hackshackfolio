@@ -56,8 +56,9 @@ body, h1, h2, h3, h4, h5, h6, p, span, li, td, th {
 }
 
 /* More specific targeting for social media icons */
-.footer .fas, .footer .fab, .footer .ai, .footer .far,
-.social .fas, .social .fab, .social .ai, .social .far,
+.footer a .fas, .footer a .fab, .footer a .ai, .footer a .far,
+.social a .fas, .social a .fab, .social a .ai, .social a .far,
+.social-links a .fas, .social-links a .fab, .social-links a .ai, .social-links a .far,
 a .fas, a .fab, a .ai, a .far {
     color: #ffffff !important;
 }
