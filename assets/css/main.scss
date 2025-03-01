@@ -50,12 +50,20 @@ body, h1, h2, h3, h4, h5, h6, p, span, li, td, th {
     color: #ffffff !important;
 }
 
-/* Custom class for social media icons */
-.social-icon {
+/* Ensure social media icons are white */
+.fas, .fab, .ai, .far, .social-icon {
     color: #ffffff !important;
 }
 
-/* Ensure social media icons are white */
-.fas, .fab, .ai, .far {
+/* Diagnostic background colors */
+.social-icon {
+    background-color: red !important;
+}
+
+.footer a .fas, .footer a .fab, .footer a .ai, .footer a .far,
+.social a .fas, .social a .fab, .social a .ai, .social a .far,
+.social-links a .fas, .social-links a .fab, .social-links a .ai, .social-links a .far,
+a .fas, a .fab, a .ai, a .far {
+    background-color: red !important;
     color: #ffffff !important;
 }
