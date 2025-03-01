@@ -51,8 +51,8 @@ body, h1, h2, h3, h4, h5, h6, p, span, li, td, th {
 }
 
 /* Ensure social media icons are white */
-.fas, .fab, .ai {
-    color: #ffffff;
+.footer .fas, .footer .fab, .footer .ai {
+    color: #ffffff !important;
 }
 
 /* Add more night mode styles as needed */
