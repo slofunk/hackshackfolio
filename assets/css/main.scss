@@ -18,6 +18,7 @@ $max-content-width: {{ site.max_width }};
   "font-awesome/solid",
   "font-awesome/regular"
 ;
+
 /* Night mode styles */
 body {
     background-color: #121212;
@@ -43,3 +44,14 @@ a {
 a:hover {
     color: #ffffff;
 }
+
+/* Specific styles for text elements */
+h1, h2, h3, h4, h5, h6 {
+    color: #ffffff;
+}
+
+p, span, li, td, th {
+    color: #ffffff;
+}
+
+/* Add more night mode styles as needed */
