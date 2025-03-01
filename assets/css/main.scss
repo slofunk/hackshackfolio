@@ -34,3 +34,12 @@ body {
     background-color: #1e1e1e;
     color: #ffffff;
 }
+
+/* Ensure links are also visible in night mode */
+a {
+    color: #bb86fc;
+}
+
+a:hover {
+    color: #ffffff;
+}
