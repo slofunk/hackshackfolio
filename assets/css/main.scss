@@ -51,19 +51,15 @@ body, h1, h2, h3, h4, h5, h6, p, span, li, td, th {
 }
 
 /* Ensure social media icons are white */
-.footer a .fas, .footer a .fab, .footer a .ai {
+.fas, .fab, .ai, .far {
     color: #ffffff !important;
 }
 
-/* Debugging styles to verify icon changes */
-.footer a .fas {
-    background-color: red !important; /* Temporarily set a background color to verify changes */
-}
-.footer a .fab {
-    background-color: blue !important; /* Temporarily set a background color to verify changes */
-}
-.footer a .ai {
-    background-color: green !important; /* Temporarily set a background color to verify changes */
+/* More specific targeting for social media icons */
+.footer .fas, .footer .fab, .footer .ai, .footer .far,
+.social .fas, .social .fab, .social .ai, .social .far,
+a .fas, a .fab, a .ai, a .far {
+    color: #ffffff !important;
 }
 
 /* Add more night mode styles as needed */
