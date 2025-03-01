@@ -46,11 +46,12 @@ a:hover {
 }
 
 /* Specific styles for text elements */
-h1, h2, h3, h4, h5, h6 {
-    color: #ffffff;
+body, h1, h2, h3, h4, h5, h6, p, span, li, td, th {
+    color: #ffffff !important;
 }
 
-p, span, li, td, th {
+/* Ensure social media icons are white */
+.fas, .fab, .ai {
     color: #ffffff;
 }
 
