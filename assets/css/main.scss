@@ -18,3 +18,19 @@ $max-content-width: {{ site.max_width }};
   "font-awesome/solid",
   "font-awesome/regular"
 ;
+/* Night mode styles */
+body {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+/* Ensure other elements are styled for night mode */
+.header {
+    background-color: #1e1e1e;
+    color: #ffffff;
+}
+
+.content {
+    background-color: #1e1e1e;
+    color: #ffffff;
+}
