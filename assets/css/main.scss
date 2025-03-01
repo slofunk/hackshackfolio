@@ -55,15 +55,15 @@ body, h1, h2, h3, h4, h5, h6, p, span, li, td, th {
     color: #ffffff !important;
 }
 
-/* Diagnostic background colors */
+/* Remove diagnostic background colors */
 .social-icon {
-    background-color: red !important;
+    background-color: transparent !important;
 }
 
 .footer a .fas, .footer a .fab, .footer a .ai, .footer a .far,
 .social a .fas, .social a .fab, .social a .ai, .social a .far,
 .social-links a .fas, .social-links a .fab, .social-links a .ai, .social-links a .far,
 a .fas, a .fab, a .ai, a .far {
-    background-color: red !important;
+    background-color: transparent !important;
     color: #ffffff !important;
 }
