@@ -51,8 +51,15 @@ body, h1, h2, h3, h4, h5, h6, p, span, li, td, th {
 }
 
 /* Ensure social media icons are white */
-.fas, .fab, .ai, .far, .social-icon {
+.social-icon i {
     color: #ffffff !important;
+    background-color: transparent !important;
+}
+
+/* Additional styling */
+.social-icons {
+    display: flex;
+    gap: 10px; /* Adjust spacing between icons */
 }
 
 /* Remove diagnostic background colors */
